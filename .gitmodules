@@ -1,0 +1,3 @@
+[submodule "related-to-django/postify-api"]
+	path = related-to-django/postify-api
+	url = git@github.com:yannickkiki/postify-api.git
